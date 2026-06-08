@@ -11,6 +11,20 @@ Paradox is a Flutter social app built with Firebase for authentication, chat, fe
 - Firebase Storage and Cloudinary-based media handling
 - Firestore-backed app release card for sharing APK download links
 
+## Screenshots
+
+Add app screenshots to `docs/screenshots/` and reference them here so visitors can preview the UI.
+
+Example:
+
+```md
+<p>
+  <img src="docs/screenshots/login.png" width="220" alt="Login screen">
+  <img src="docs/screenshots/feed.png" width="220" alt="Feed screen">
+  <img src="docs/screenshots/profile.png" width="220" alt="Profile screen">
+</p>
+```
+
 ## Tech Stack
 
 - Flutter / Dart
